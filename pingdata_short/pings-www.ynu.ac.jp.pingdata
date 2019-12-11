@@ -1,0 +1,68 @@
+#My ip: 148.6.155.21
+#My lat: 47.48
+#My lon: 19.02
+PING 133.162.67.133 (133.162.67.133) 56(84) bytes of data.
+64 bytes from 133.162.67.133: icmp_seq=1 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=2 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=3 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=4 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=5 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=6 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=7 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=8 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=9 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=10 ttl=28 time=323 ms
+64 bytes from 133.162.67.133: icmp_seq=11 ttl=28 time=302 ms
+64 bytes from 133.162.67.133: icmp_seq=12 ttl=28 time=345 ms
+64 bytes from 133.162.67.133: icmp_seq=13 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=14 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=15 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=16 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=17 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=18 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=19 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=20 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=21 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=22 ttl=28 time=301 ms
+64 bytes from 133.162.67.133: icmp_seq=23 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=24 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=25 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=26 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=27 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=28 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=29 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=30 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=31 ttl=28 time=301 ms
+64 bytes from 133.162.67.133: icmp_seq=32 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=33 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=34 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=35 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=36 ttl=28 time=311 ms
+64 bytes from 133.162.67.133: icmp_seq=37 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=38 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=39 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=40 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=41 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=42 ttl=28 time=301 ms
+64 bytes from 133.162.67.133: icmp_seq=43 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=44 ttl=28 time=353 ms
+64 bytes from 133.162.67.133: icmp_seq=45 ttl=28 time=302 ms
+64 bytes from 133.162.67.133: icmp_seq=46 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=47 ttl=28 time=306 ms
+64 bytes from 133.162.67.133: icmp_seq=48 ttl=28 time=303 ms
+64 bytes from 133.162.67.133: icmp_seq=49 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=50 ttl=28 time=302 ms
+64 bytes from 133.162.67.133: icmp_seq=51 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=52 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=53 ttl=28 time=298 ms
+64 bytes from 133.162.67.133: icmp_seq=54 ttl=28 time=301 ms
+64 bytes from 133.162.67.133: icmp_seq=55 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=56 ttl=28 time=300 ms
+64 bytes from 133.162.67.133: icmp_seq=57 ttl=28 time=304 ms
+64 bytes from 133.162.67.133: icmp_seq=58 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=59 ttl=28 time=299 ms
+64 bytes from 133.162.67.133: icmp_seq=60 ttl=28 time=298 ms
+
+--- 133.162.67.133 ping statistics ---
+60 packets transmitted, 60 received, 0% packet loss, time 59068ms
+rtt min/avg/max/mdev = 298.707/302.184/353.089/9.533 ms

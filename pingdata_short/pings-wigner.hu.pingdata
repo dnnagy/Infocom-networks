@@ -1,0 +1,67 @@
+#My ip: 148.6.155.21
+#My lat: 47.48
+#My lon: 19.02
+PING 148.6.2.104 (148.6.2.104) 56(84) bytes of data.
+64 bytes from 148.6.2.104: icmp_seq=1 ttl=63 time=0.414 ms
+64 bytes from 148.6.2.104: icmp_seq=2 ttl=63 time=0.505 ms
+64 bytes from 148.6.2.104: icmp_seq=3 ttl=63 time=0.425 ms
+64 bytes from 148.6.2.104: icmp_seq=4 ttl=63 time=0.482 ms
+64 bytes from 148.6.2.104: icmp_seq=5 ttl=63 time=0.349 ms
+64 bytes from 148.6.2.104: icmp_seq=6 ttl=63 time=0.476 ms
+64 bytes from 148.6.2.104: icmp_seq=7 ttl=63 time=0.363 ms
+64 bytes from 148.6.2.104: icmp_seq=8 ttl=63 time=0.367 ms
+64 bytes from 148.6.2.104: icmp_seq=9 ttl=63 time=0.511 ms
+64 bytes from 148.6.2.104: icmp_seq=10 ttl=63 time=0.499 ms
+64 bytes from 148.6.2.104: icmp_seq=11 ttl=63 time=0.409 ms
+64 bytes from 148.6.2.104: icmp_seq=12 ttl=63 time=0.374 ms
+64 bytes from 148.6.2.104: icmp_seq=13 ttl=63 time=0.461 ms
+64 bytes from 148.6.2.104: icmp_seq=14 ttl=63 time=0.397 ms
+64 bytes from 148.6.2.104: icmp_seq=15 ttl=63 time=0.458 ms
+64 bytes from 148.6.2.104: icmp_seq=16 ttl=63 time=0.482 ms
+64 bytes from 148.6.2.104: icmp_seq=17 ttl=63 time=0.385 ms
+64 bytes from 148.6.2.104: icmp_seq=18 ttl=63 time=0.438 ms
+64 bytes from 148.6.2.104: icmp_seq=19 ttl=63 time=0.390 ms
+64 bytes from 148.6.2.104: icmp_seq=20 ttl=63 time=0.446 ms
+64 bytes from 148.6.2.104: icmp_seq=21 ttl=63 time=0.420 ms
+64 bytes from 148.6.2.104: icmp_seq=22 ttl=63 time=0.350 ms
+64 bytes from 148.6.2.104: icmp_seq=23 ttl=63 time=0.469 ms
+64 bytes from 148.6.2.104: icmp_seq=24 ttl=63 time=0.451 ms
+64 bytes from 148.6.2.104: icmp_seq=25 ttl=63 time=0.301 ms
+64 bytes from 148.6.2.104: icmp_seq=26 ttl=63 time=0.509 ms
+64 bytes from 148.6.2.104: icmp_seq=27 ttl=63 time=0.395 ms
+64 bytes from 148.6.2.104: icmp_seq=28 ttl=63 time=0.511 ms
+64 bytes from 148.6.2.104: icmp_seq=29 ttl=63 time=0.444 ms
+64 bytes from 148.6.2.104: icmp_seq=30 ttl=63 time=0.396 ms
+64 bytes from 148.6.2.104: icmp_seq=31 ttl=63 time=0.394 ms
+64 bytes from 148.6.2.104: icmp_seq=32 ttl=63 time=0.304 ms
+64 bytes from 148.6.2.104: icmp_seq=33 ttl=63 time=0.356 ms
+64 bytes from 148.6.2.104: icmp_seq=34 ttl=63 time=0.420 ms
+64 bytes from 148.6.2.104: icmp_seq=35 ttl=63 time=0.361 ms
+64 bytes from 148.6.2.104: icmp_seq=36 ttl=63 time=0.418 ms
+64 bytes from 148.6.2.104: icmp_seq=37 ttl=63 time=0.430 ms
+64 bytes from 148.6.2.104: icmp_seq=38 ttl=63 time=0.369 ms
+64 bytes from 148.6.2.104: icmp_seq=39 ttl=63 time=0.481 ms
+64 bytes from 148.6.2.104: icmp_seq=40 ttl=63 time=0.388 ms
+64 bytes from 148.6.2.104: icmp_seq=41 ttl=63 time=0.485 ms
+64 bytes from 148.6.2.104: icmp_seq=42 ttl=63 time=0.493 ms
+64 bytes from 148.6.2.104: icmp_seq=43 ttl=63 time=0.373 ms
+64 bytes from 148.6.2.104: icmp_seq=44 ttl=63 time=0.450 ms
+64 bytes from 148.6.2.104: icmp_seq=45 ttl=63 time=0.426 ms
+64 bytes from 148.6.2.104: icmp_seq=46 ttl=63 time=0.491 ms
+64 bytes from 148.6.2.104: icmp_seq=47 ttl=63 time=0.457 ms
+64 bytes from 148.6.2.104: icmp_seq=48 ttl=63 time=0.302 ms
+64 bytes from 148.6.2.104: icmp_seq=49 ttl=63 time=0.458 ms
+64 bytes from 148.6.2.104: icmp_seq=50 ttl=63 time=0.378 ms
+64 bytes from 148.6.2.104: icmp_seq=51 ttl=63 time=0.399 ms
+64 bytes from 148.6.2.104: icmp_seq=52 ttl=63 time=0.341 ms
+64 bytes from 148.6.2.104: icmp_seq=53 ttl=63 time=0.488 ms
+64 bytes from 148.6.2.104: icmp_seq=54 ttl=63 time=0.481 ms
+64 bytes from 148.6.2.104: icmp_seq=55 ttl=63 time=0.386 ms
+64 bytes from 148.6.2.104: icmp_seq=56 ttl=63 time=0.330 ms
+64 bytes from 148.6.2.104: icmp_seq=57 ttl=63 time=0.493 ms
+64 bytes from 148.6.2.104: icmp_seq=58 ttl=63 time=0.487 ms
+64 bytes from 148.6.2.104: icmp_seq=59 ttl=63 time=0.422 ms
+
+--- 148.6.2.104 ping statistics ---
+59 packets transmitted, 59 received, 0% packet loss, time 59308ms
+rtt min/avg/max/mdev = 0.301/0.422/0.511/0.061 ms

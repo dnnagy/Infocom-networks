@@ -1,0 +1,263 @@
+[I 10:27:53.147 NotebookApp] JupyterLab extension loaded from /home/dnagy/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 10:27:53.147 NotebookApp] JupyterLab application directory is /home/dnagy/anaconda3/share/jupyter/lab
+[I 10:27:53.150 NotebookApp] Serving notebooks from local directory: /home/dnagy/Infocom-networks
+[I 10:27:53.150 NotebookApp] The Jupyter Notebook is running at:
+[I 10:27:53.150 NotebookApp] http://localhost:8888/?token=...
+[I 10:27:53.150 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:27:53.176 NotebookApp] No web browser found: could not locate runnable browser.
+[I 10:28:49.412 NotebookApp] 302 GET / (::1) 1.06ms
+[I 10:28:49.425 NotebookApp] 302 GET /tree? (::1) 1.59ms
+[W 10:28:55.189 NotebookApp] Not allowing login redirect to '/tree?'
+[I 10:28:55.189 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.17ms
+[I 10:28:55.199 NotebookApp] 302 GET / (::1) 0.49ms
+[W 10:29:31.804 NotebookApp] Notebook Problemset_1.ipynb is not trusted
+[I 10:29:32.702 NotebookApp] Kernel started: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:29:35.112 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:42:57.934 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 10:42:58.263 NotebookApp] Kernel restarted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:43:00.511 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:43:00.512 NotebookApp] Restoring connection for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 10:43:00.512 NotebookApp] Replaying 10 buffered messages
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   307  100   307    0     0    935      0 --:--:-- --:--:-- --:--:--   935
+[I 10:43:27.429 NotebookApp] Creating new file in 
+[I 10:44:15.794 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:45:46.103 NotebookApp] Saving file at /requirements.txt
+[I 10:45:50.073 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 10:45:50.485 NotebookApp] Kernel restarted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:45:52.743 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 10:45:52.744 NotebookApp] Restoring connection for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 10:45:52.744 NotebookApp] Replaying 10 buffered messages
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   307  100   307    0     0   1527      0 --:--:-- --:--:-- --:--:--  1527
+removed 'pings-wigner.hu.pingdata'
+removed 'pings-elte.hu.pingdata'
+removed 'pings-ubbcluj.ro.pingdata'
+removed 'pings-utcluj.ro.pingdata'
+removed 'pings-tum.de.pingdata'
+removed 'pings-fu-berlin.de.pingdata'
+removed 'pings-uni-hannover.de.pingdata'
+removed 'pings-unibas.ch.pingdata'
+removed 'pings-universite-lyon.fr.pingdata'
+removed 'pings-www.ulisboa.pt.pingdata'
+removed 'pings-cam.ac.uk.pingdata'
+removed 'pings-ed.ac.uk.pingdata'
+removed 'pings-www.princeton.edu.pingdata'
+removed 'pings-www.harvard.edu.pingdata'
+removed 'pings-www.ucla.edu.pingdata'
+removed 'pings-www.ynu.ac.jp.pingdata'
+removed 'pings-www.useoul.edu.pingdata'
+removed 'pings-web.iit.edu.pingdata'
+removed 'pings-fearp.usp.br.pingdata'
+removed 'pings-uchile.cl.pingdata'
+removed 'pings-unimelb.edu.au.pingdata'
+removed 'pings-unibuc.ro.pingdata'
+[I 10:46:15.792 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:48:15.799 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:50:15.863 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:52:15.812 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:54:15.817 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 10:57:49.695 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:00:37.620 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:04:49.312 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:10:53.415 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:15:34.114 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:17:01.094 NotebookApp] Saving file at /servers.csv
+[I 11:17:34.109 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:18:21.657 NotebookApp] Kernel interrupted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 11:19:34.118 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:20:07.283 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 11:20:07.802 NotebookApp] Kernel restarted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 11:20:10.060 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 11:20:10.061 NotebookApp] Restoring connection for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 11:20:10.061 NotebookApp] Replaying 10 buffered messages
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   307  100   307    0     0    996      0 --:--:-- --:--:-- --:--:--   996
+[I 11:20:41.963 NotebookApp] Kernel interrupted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 11:21:34.109 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:23:34.126 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:23:39.040 NotebookApp] Kernel interrupted: 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 11:25:34.131 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:27:34.181 NotebookApp] Saving file at /Problemset_1.ipynb
+removed 'pings-wigner.hu.pingdata'
+removed 'pings-elte.hu.pingdata'
+removed 'pings-ubbcluj.ro.pingdata'
+removed 'pings-utcluj.ro.pingdata'
+removed 'pings-tum.de.pingdata'
+removed 'pings-fu-berlin.de.pingdata'
+removed 'pings-uni-hannover.de.pingdata'
+removed 'pings-unibas.ch.pingdata'
+removed 'pings-universite-lyon.fr.pingdata'
+removed 'pings-www.ulisboa.pt.pingdata'
+removed 'pings-cam.ac.uk.pingdata'
+removed 'pings-ed.ac.uk.pingdata'
+removed 'pings-www.princeton.edu.pingdata'
+removed 'pings-www.harvard.edu.pingdata'
+removed 'pings-www.ucla.edu.pingdata'
+removed 'pings-www.ynu.ac.jp.pingdata'
+removed 'pings-www.useoul.edu.pingdata'
+removed 'pings-web.iit.edu.pingdata'
+removed 'pings-fearp.usp.br.pingdata'
+removed 'pings-uchile.cl.pingdata'
+removed 'pings-unimelb.edu.au.pingdata'
+[I 11:33:34.189 NotebookApp] Saving file at /Problemset_1.ipynb
+removed 'pings-wigner.hu.pingdata'
+removed 'pings-elte.hu.pingdata'
+removed 'pings-ubbcluj.ro.pingdata'
+removed 'pings-utcluj.ro.pingdata'
+removed 'pings-tum.de.pingdata'
+removed 'pings-fu-berlin.de.pingdata'
+removed 'pings-uni-hannover.de.pingdata'
+removed 'pings-unibas.ch.pingdata'
+removed 'pings-universite-lyon.fr.pingdata'
+removed 'pings-www.ulisboa.pt.pingdata'
+removed 'pings-cam.ac.uk.pingdata'
+removed 'pings-ed.ac.uk.pingdata'
+removed 'pings-www.princeton.edu.pingdata'
+removed 'pings-www.harvard.edu.pingdata'
+removed 'pings-www.ucla.edu.pingdata'
+removed 'pings-www.ynu.ac.jp.pingdata'
+removed 'pings-www.useoul.edu.pingdata'
+removed 'pings-web.iit.edu.pingdata'
+removed 'pings-fearp.usp.br.pingdata'
+removed 'pings-uchile.cl.pingdata'
+removed 'pings-unimelb.edu.au.pingdata'
+removed 'pings-wigner.hu.pingdata'
+removed 'pings-elte.hu.pingdata'
+removed 'pings-ubbcluj.ro.pingdata'
+removed 'pings-utcluj.ro.pingdata'
+removed 'pings-tum.de.pingdata'
+removed 'pings-fu-berlin.de.pingdata'
+removed 'pings-uni-hannover.de.pingdata'
+removed 'pings-unibas.ch.pingdata'
+removed 'pings-universite-lyon.fr.pingdata'
+removed 'pings-www.ulisboa.pt.pingdata'
+removed 'pings-cam.ac.uk.pingdata'
+removed 'pings-ed.ac.uk.pingdata'
+removed 'pings-www.princeton.edu.pingdata'
+removed 'pings-www.harvard.edu.pingdata'
+removed 'pings-www.ucla.edu.pingdata'
+removed 'pings-www.ynu.ac.jp.pingdata'
+removed 'pings-www.useoul.edu.pingdata'
+removed 'pings-web.iit.edu.pingdata'
+removed 'pings-fearp.usp.br.pingdata'
+removed 'pings-uchile.cl.pingdata'
+removed 'pings-unimelb.edu.au.pingdata'
+[I 11:35:34.155 NotebookApp] Saving file at /Problemset_1.ipynb
+removed 'pings-wigner.hu.pingdata'
+removed 'pings-elte.hu.pingdata'
+removed 'pings-ubbcluj.ro.pingdata'
+removed 'pings-utcluj.ro.pingdata'
+removed 'pings-tum.de.pingdata'
+removed 'pings-fu-berlin.de.pingdata'
+removed 'pings-uni-hannover.de.pingdata'
+removed 'pings-unibas.ch.pingdata'
+removed 'pings-universite-lyon.fr.pingdata'
+removed 'pings-www.ulisboa.pt.pingdata'
+removed 'pings-cam.ac.uk.pingdata'
+removed 'pings-ed.ac.uk.pingdata'
+removed 'pings-www.princeton.edu.pingdata'
+removed 'pings-www.harvard.edu.pingdata'
+removed 'pings-www.ucla.edu.pingdata'
+removed 'pings-www.ynu.ac.jp.pingdata'
+removed 'pings-www.useoul.edu.pingdata'
+removed 'pings-web.iit.edu.pingdata'
+removed 'pings-fearp.usp.br.pingdata'
+removed 'pings-uchile.cl.pingdata'
+removed 'pings-unimelb.edu.au.pingdata'
+[I 11:37:34.205 NotebookApp] Saving file at /Problemset_1.ipynb
+[I 11:39:36.053 NotebookApp] Creating new file in 
+[I 11:47:12.256 NotebookApp] Saving file at /long_pings.sh
+[I 11:51:05.973 NotebookApp] Saving file at /long_pings.sh
+[I 11:55:31.332 NotebookApp] Saving file at /long_pings.sh
+[I 11:57:16.242 NotebookApp] Saving file at /long_pings.sh
+[I 13:40:43.104 NotebookApp] Saving file at /long_pings.sh
+[I 14:07:33.468 NotebookApp] Creating new notebook in 
+[I 14:07:34.984 NotebookApp] Kernel started: 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 14:07:37.416 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 14:09:35.003 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:10:27.975 NotebookApp] Saving file at /requirements.txt
+[I 14:11:35.007 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:32:40.612 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:34:28.003 NotebookApp] Saving file at /servers.csv
+[I 14:34:40.562 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:40:48.913 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:42:48.870 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:44:48.877 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:46:48.887 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:48:48.886 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:50:48.892 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:51:37.397 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:07:42.508 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:09:42.511 NotebookApp] Saving file at /Problemset_2.ipynb
+[W 15:12:07.420 NotebookApp] WebSocket ping timeout after 119994 ms.
+[W 15:12:10.064 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 15:12:12.424 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:7661061ef8fd4f1191d2c1c9dec499c0
+[I 15:12:15.066 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 15:13:53.096 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 15:13:58.447 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 15:13:58.447 NotebookApp] Restoring connection for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 15:15:53.092 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:35:59.398 NotebookApp] Saving file at /requirements.txt
+[I 15:37:02.530 NotebookApp] Saving file at /requirements.txt
+[I 15:39:40.504 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:41:40.516 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:43:40.510 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:45:40.517 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:47:40.523 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:49:40.536 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:51:40.540 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 15:53:07.486 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:03:12.583 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:05:12.591 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:07:12.596 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:07:57.696 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:25:32.194 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:27:32.198 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:29:32.201 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:31:32.205 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:33:32.209 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:34:35.999 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:37:32.222 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:39:32.228 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:41:32.277 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:43:32.239 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:45:32.258 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:47:32.269 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:49:32.272 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:53:04.730 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:53:32.280 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 16:54:28.146 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 17:00:44.580 NotebookApp] 302 GET /notebooks/reproduction-test.ipynb (::1) 0.96ms
+[I 17:37:13.467 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 17:37:13.468 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 19:09:41.848 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 19:09:41.849 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 19:09:41.850 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 19:09:41.851 NotebookApp] Restoring connection for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 19:10:05.736 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 19:10:05.778 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 19:10:05.779 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 21:54:10.336 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 21:56:10.268 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 21:58:10.269 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:00:10.230 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:02:10.262 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:04:10.336 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:08:49.143 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:10:49.193 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:21:17.962 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:23:17.942 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:27:19.089 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:29:19.217 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:29:44.807 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:38:58.073 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 22:38:58.613 NotebookApp] Kernel restarted: 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 22:39:02.515 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 22:39:02.516 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 22:39:02.516 NotebookApp] Replaying 10 buffered messages
+[I 22:40:42.508 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 22:50:44.515 NotebookApp] Saving file at /Problemset_2.ipynb
