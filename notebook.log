@@ -264,3 +264,33 @@ removed 'pings-unimelb.edu.au.pingdata'
 [I 22:54:44.804 NotebookApp] Saving file at /Problemset_2.ipynb
 [I 22:58:44.800 NotebookApp] Saving file at /Problemset_2.ipynb
 [I 22:59:08.985 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:09:02.056 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:28:39.124 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:30:39.132 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:32:40.078 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:34:39.582 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:36:38.973 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:38:39.181 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:40:39.107 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:42:39.166 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 11:44:39.900 NotebookApp] Saving file at /Problemset_2.ipynb
+[W 12:41:41.853 NotebookApp] WebSocket ping timeout after 119986 ms.
+[I 12:41:46.854 NotebookApp] Starting buffering for 1f9a0870-39da-423e-99ce-344a510a79c9:94c8394e0294403d9f7fb973a51a1fee
+[I 12:42:01.870 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:49:41.506 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 13:49:46.150 NotebookApp] Adapting to protocol v5.1 for kernel 1f9a0870-39da-423e-99ce-344a510a79c9
+[I 13:49:49.627 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 13:49:49.628 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:49:51.177 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:49:51.200 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 13:49:51.201 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:50:25.364 NotebookApp] Starting buffering for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:50:25.378 NotebookApp] Adapting to protocol v5.1 for kernel 3bed358d-7764-475b-9847-c9c79d221b8a
+[I 13:50:25.378 NotebookApp] Restoring connection for 3bed358d-7764-475b-9847-c9c79d221b8a:8c0a74ca96384d5c89ea47d2c18979e4
+[I 13:51:41.753 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 13:53:41.745 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 13:55:41.743 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 13:57:41.742 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 13:59:42.660 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:01:28.257 NotebookApp] Saving file at /Problemset_2.ipynb
+[I 14:01:30.813 NotebookApp] Saving file at /Problemset_2.ipynb
